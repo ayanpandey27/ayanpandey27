@@ -1,8 +1,12 @@
-
+![Header](https://readme-headers.vercel.app/api?text=Hello%20World!%20I%27m%20Ayan&bgColor=0d1117&textColor=00ffee&fontSize=40&animation=fadeIn)
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ayancodehub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-   
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayancodehub&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayancodehub&theme=tokyo-night&bg_color=0d1117&color=00ffee&line=00ffee&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
@@ -26,10 +30,17 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ayancodehub&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+</p>
+
+---
+
 ## 🌎 Connect with Me
 <p align="center">
     <a href="https://github.com/ayancodehub"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="mailto:ayanduttpandey@gmail.com.com"><img src="https://img.shields.io/badge/Email-00ffee?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+    <a href="mailto:ayanduttpandey@gmail.com"><img src="https://img.shields.io/badge/Email-00ffee?style=for-the-badge&logo=gmail&logoColor=black" /></a>
     <a href="https://www.linkedin.com/in/ayan-dutt-pandey-74611621b/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
