@@ -1,67 +1,52 @@
-![Header](https://readme-headers.vercel.app/api?text=Welcome%20to%20My%20GitHub!&fontSize=30&color=00FFFF&style=neon)
+![Header](https://readme-headers.vercel.app/api?text=Hello%20World!%20I%27m%20Ayan&bgColor=0d1117&textColor=00ffee&fontSize=40&animation=fadeIn)
 
-# 🌌 Ayan | Aspiring Data Scientist 💡
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ayancodehub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayancodehub&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
 
-### 🔥 Passionate about Data Science & Management | Always Learning 🚀
-
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
-![GitHub stars](https://img.shields.io/github/stars/your-username?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=00ffee&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;Aspiring+Manager;Spring+Boot+Developer;Tech+Explorer" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🚀 About Me
-
-- 🎓 Aspiring **Data Scientist** with a deep passion for **Management**.
-- 💡 I love working on **Machine Learning, Deep Learning, and Data Analytics**.
-- 🛠️ Currently learning **Big Data & Cloud Technologies**.
-- 🎯 Goal: To **blend technical expertise with management skills** for impactful solutions.
-- 📚 Open to collaborations in **AI, ML, and Business Analytics** projects.
+🔹 **Aspiring Data Scientist** with a passion for **management** and **technology**.  
+🔹 I love working on **Spring Boot applications, AI models, and system design**.  
+🔹 Exploring the intersection of **tech and business**, blending innovation with leadership.  
+🔹 Open to **collaborations, open-source projects, and knowledge-sharing**!
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 🛠️ Tech Stack
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,js,nodejs,mysql,postgres,docker,kubernetes,redis,rabbitmq,aws,git,github&theme=dark" />
+</p>
 
 ---
 
-## 📊 GitHub Stats & Streaks
-
-![Ayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Ayan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)
-
----
-
-## 📌 Featured Projects
-
-### 🧠 Machine Learning & AI
-- 🔹 [Project Name](https://github.com/your-username/project-repo) - Description.
-- 🔹 [Project Name](https://github.com/your-username/project-repo) - Description.
-
-### 📊 Data Analysis & Visualization
-- 🔹 [Project Name](https://github.com/your-username/project-repo) - Description.
-- 🔹 [Project Name](https://github.com/your-username/project-repo) - Description.
-
-### 🏗️ Management & Business Analytics
-- 🔹 [Project Name](https://github.com/your-username/project-repo) - Description.
+## 🌎 Connect with Me
+<p align="center">
+    <a href="https://github.com/ayancodehub"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-00ffee?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+    <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
+## 📊 GitHub Metrics
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayancodehub&theme=tokyonight" />
+</p>
 
 ---
 
-![Footer](https://readme-headers.vercel.app/api?text=Thanks%20for%20visiting!&fontSize=20&color=00FFFF&style=neon)
+## 🎵 Now Playing
+<p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true&bar_color=00ffee&bar_color_cover=false" />
+</p>
+
+---
+
+<p align="center">💙 Built with passion. Let's innovate together! 🚀</p>
