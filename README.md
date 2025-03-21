@@ -1,8 +1,7 @@
-![Header](https://readme-headers.vercel.app/api?text=Hello%20World!%20I%27m%20Ayan&bgColor=0d1117&textColor=00ffee&fontSize=40&animation=fadeIn)
+
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ayancodehub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayancodehub&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
