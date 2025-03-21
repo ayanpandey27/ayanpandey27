@@ -1,11 +1,11 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ayancodehub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ayanpandey27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayancodehub&theme=tokyo-night&bg_color=0d1117&color=00ffee&line=00ffee&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanpandey27&theme=tokyo-night&bg_color=0d1117&color=00ffee&line=00ffee&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
